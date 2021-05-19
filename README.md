@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-An app that allows you to keep progress of your workout routines.
+A budget tracking app that has functionality to work while offline.
   ## Table of Contents 
 
   * [Installation](#installation)
@@ -29,7 +29,7 @@ An app that allows you to keep progress of your workout routines.
   Pull requests will be approved by Grayson Bloskas.
 
   # Site
-  https://fittness-tracker-grayson.herokuapp.com/
+  https://budget-tracker-grayson.herokuapp.com/
 
   # Contact
   If you have questions, please contact me at the following: 
@@ -45,4 +45,7 @@ An app that allows you to keep progress of your workout routines.
 
   # Images
 
-mongodb+srv://graysonbloskas:Qaz-123-wsx!@cluster0.npijb.mongodb.net/budget?retryWrites=true&w=majority
+<img src="assets/screencapture-budget-tracker-grayson-herokuapp-2021-05-18-20_38_50.png">
+
+<img src="assets/Screen Shot 2021-05-18 at 8.40.43 PM.png">
+<img src="assets/Screen Shot 2021-05-18 at 8.40.58 PM.png">
